@@ -1,2 +1,3 @@
-# Learn-GIt
-creating repo to learn git
+Hi Everyone,
+
+This repo is created for testing and learing purpose.
